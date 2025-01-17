@@ -1,6 +1,8 @@
 # Week 3 Assignment: Wallet Generator 🔐
 
-This project is part of the Web3 Cohort Week 3 assignment, where I built a **Wallet Generator** for both **Ethereum** and **Solana** networks. The app generates wallets based on a mnemonic phrase and displays both public and private keys.
+This project is part of the Web3 Cohort Week 3 assignment (planning on expanding it to more), where I built a **Wallet Generator** for both **Ethereum** and **Solana** networks. The app generates wallets based on a mnemonic phrase and displays both public and private keys.
+
+![Wallet Generator Preview](./public/Preview.png)
 
 ---
 
